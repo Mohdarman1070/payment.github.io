@@ -1,0 +1,41 @@
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.head{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(background.png);
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.btn{
+    position: absolute;
+    bottom: 43%;
+    left: 43%;
+   
+   
+}
+input{
+    color:black;
+}
+
+.btn button{
+    padding: 20px 30px;
+    border-radius: 10px;
+
+}
+.container{
+    position: absolute;
+    left: 43%;
+    bottom: 54%;
+    color: white;
+    
+}
+input{
+    padding: 10px 10px;
+    margin: 10px;
+}
